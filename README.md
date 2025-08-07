@@ -1,4 +1,4 @@
-Manual de Identidade Visual 
+*Manual de Identidade Visual *
 
 Projeto Pessoal
 
