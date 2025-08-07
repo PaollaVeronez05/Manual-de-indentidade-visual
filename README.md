@@ -1,4 +1,7 @@
-Manual de Identidade Visual - Projeto Pessoal
+Manual de Identidade Visual 
+
+Projeto Pessoal
+
 Este projeto é um exercício de design gráfico focado na criação de um manual de identidade visual, utilizando como base as cores da marca Itaú. A proposta teve como objetivo analisar, reproduzir e aplicar a paleta cromática da marca de forma coerente em um sistema visual organizado.
 
 Objetivo
@@ -15,4 +18,7 @@ A aplicação desses elementos em exemplos gráficos e composições simuladas.
 
 Visualização
 Todo o material pode ser acessado através do arquivo disponível neste repositório, ideal para quem busca referências ou deseja estudar a construção de um sistema de identidade visual inspirado em marcas reais.
+
+<img width="592" height="406" alt="image" src="https://github.com/user-attachments/assets/7cba015f-bbbc-4ee4-abe7-55a8c0341a02" />
+
 
